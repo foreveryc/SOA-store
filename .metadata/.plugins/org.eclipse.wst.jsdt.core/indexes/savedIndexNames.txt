@@ -1,0 +1,19 @@
+INDEX VERSION 1.4+D:\ytao_workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3254037112.index
+2568934743.index
+3412752486.index
+927522713.index
+645749664.index
+2667393349.index
+1189927427.index
+1337661998.index
+1196738373.index
+2262329514.index
+154235632.index
+3193931313.index
+799313235.index
+2242707469.index
+2432281938.index
+1627253309.index
+1386768508.index
+2863633603.index

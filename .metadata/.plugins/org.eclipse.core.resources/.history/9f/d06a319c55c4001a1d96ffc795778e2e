@@ -1,0 +1,5 @@
+package com.ytao.common.pojo;
+
+public class SearchResult {
+
+}

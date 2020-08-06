@@ -1,0 +1,4 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>\u5355\u70B9\u767B\u5165</message>\r\n<message>sso\u5355\u70B9\u767B\u5165\u6A21\u5757</message>\r\n<message>sso\u670D\u52A1</message>\r\n<message>\u5355\u70B9\u767B\u5165\u7684\u63A5\u53E3</message>\r\n<message>service\u5B9E\u73B0\u7C7B</message>\r\n<message>sso-web \u5355\u70B9\u767B\u5165\u7684web\u5DE5\u7A0B</message>\r\n</messages>
+eclipse.preferences.version=1
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300
